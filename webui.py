@@ -12,7 +12,7 @@ import modules.gradio_hijack as grh
 import modules.advanced_parameters as advanced_parameters
 import comfy.model_management as model_management
 
-from modules.sdxl_styles import style_keys, aspect_ratios, fooocus_expansion, default_styles, default_aspect_ratio
+from modules.sdxl_styles import style_keys, aspect_ratios, fooocus_expansion, default_styles
 
 
 def generate_clicked(*args):
