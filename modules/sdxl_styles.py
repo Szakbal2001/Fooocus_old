@@ -1,3 +1,4 @@
+import modules.path
 # https://github.com/twri/sdxl_prompt_styler/blob/main/sdxl_styles.json
 
 styles = [
@@ -981,6 +982,7 @@ SD_XL_BASE_RATIOS = {
 }
 
 aspect_ratios = {}
+default_aspect_ratio = None
 
 # import math
 
@@ -991,6 +993,8 @@ for k, (w, h) in SD_XL_BASE_RATIOS.items():
     # txt += f' {w//gcd}:{h//gcd}'
     
     aspect_ratios[txt] = (w, h)
+    if k == "1.29":
+        default_aspect_ratio = txt
 
 
 def apply_style(style, positive):
