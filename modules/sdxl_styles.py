@@ -518,6 +518,11 @@ styles = [
         "negative_prompt": "flat, low contrast, oversaturated, underexposed, overexposed, blurred, noisy"
     },
     {
+        "name": "photo-iphone photographic",
+        "prompt": "iphone photo {prompt} . large depth of field, deep depth of field, highly detailed",
+        "negative_prompt": "drawing, painting, crayon, sketch, graphite, impressionist, noisy, blurry, soft, deformed, ugly, shallow depth of field, bokeh"
+    },
+    {
         "name": "photo-long exposure",
         "prompt": "long exposure photo of {prompt} . Blurred motion, streaks of light, surreal, dreamy, ghosting effect, highly detailed",
         "negative_prompt": "static, noisy, deformed, shaky, abrupt, flat, low contrast"
