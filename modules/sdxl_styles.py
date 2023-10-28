@@ -671,8 +671,7 @@ styles = [
         "name": "mre-comic",
         "prompt": "breathtaking illustration from adult comic book presenting {prompt}. fabulous artwork. best quality, high resolution",
         "negative_prompt": "deformed, ugly, low quality, low resolution"
-    }
-    [
+    },
     {
         "name": "ads-advertising",
         "prompt": "advertising poster style {prompt} . Professional, modern, product-focused, commercial, eye-catching, highly detailed",
