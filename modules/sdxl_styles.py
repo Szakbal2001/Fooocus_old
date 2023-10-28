@@ -38,511 +38,6 @@ styles = [
         "negative_prompt": "anime, cartoon, graphic, text, painting, crayon, graphite, abstract, glitch, deformed, mutated, ugly, disfigured"
     },
     {
-        "name": "cinematic-diva",
-        "prompt": "UHD, 8K, ultra detailed, a cinematic photograph of {prompt}, beautiful lighting, great composition",
-        "negative_prompt": "ugly, deformed, noisy, blurry, NSFW"
-    },
-    {
-        "name": "Abstract Expressionism",
-        "prompt": "Abstract Expressionism Art, {prompt}, High contrast, minimalistic, colorful, stark, dramatic, expressionism",
-        "negative_prompt": "ugly, deformed, noisy, blurry, low contrast, realism, photorealistic"
-    },
-    {
-        "name": "Academia",
-        "prompt": "Academia, {prompt}, preppy Ivy League style, stark, dramatic, chic boarding school, academia",
-        "negative_prompt": "ugly, deformed, noisy, blurry, low contrast, grunge, sloppy, unkempt"
-    },
-    {
-        "name": "Action Figure",
-        "prompt": "Action Figure, {prompt}, plastic collectable action figure, collectable toy action figure",
-        "negative_prompt": "ugly, deformed, noisy, blurry, low contrast"
-    },
-    {
-        "name": "Adorable 3D Character",
-        "prompt": "Adorable 3D Character, {prompt}, 3D render, adorable character, 3D art",
-        "negative_prompt": "ugly, deformed, noisy, blurry, low contrast, grunge, sloppy, unkempt, photograph, photo, realistic"
-    },
-    {
-        "name": "Adorable Kawaii",
-        "prompt": "Adorable Kawaii, {prompt}, pretty, cute, adorable, kawaii",
-        "negative_prompt": "ugly, deformed, noisy, blurry, low contrast, gothic, dark, moody, monochromatic"
-    },
-    {
-        "name": "Art Deco",
-        "prompt": "Art Deco, {prompt}, sleek, geometric forms, art deco style",
-        "negative_prompt": "ugly, deformed, noisy, blurry, low contrast"
-    },
-    {
-        "name": "Art Nouveau",
-        "prompt": "Art Nouveau, beautiful art, {prompt}, sleek, organic forms, long, sinuous, art nouveau style",
-        "negative_prompt": "ugly, deformed, noisy, blurry, low contrast, industrial, mechanical"
-    },
-    {
-        "name": "Astral Aura",
-        "prompt": "Astral Aura, {prompt}, astral, colorful aura, vibrant energy",
-        "negative_prompt": "ugly, deformed, noisy, blurry, low contrast"
-    },
-    {
-        "name": "Avant-garde",
-        "prompt": "Avant-garde, {prompt}, unusual, experimental, avant-garde art",
-        "negative_prompt": "ugly, deformed, noisy, blurry, low contrast"
-    },
-    {
-        "name": "Baroque",
-        "prompt": "Baroque, {prompt}, dramatic, exuberant, grandeur, baroque art",
-        "negative_prompt": "ugly, deformed, noisy, blurry, low contrast"
-    },
-    {
-        "name": "Bauhaus-Style Poster",
-        "prompt": "Bauhaus-Style Poster, {prompt}, simple geometric shapes, clean lines, primary colors, Bauhaus-Style Poster",
-        "negative_prompt": "ugly, deformed, noisy, blurry, low contrast"
-    },
-    {
-        "name": "Blueprint Schematic Drawing",
-        "prompt": "Blueprint Schematic Drawing, {prompt}, technical drawing, blueprint, schematic",
-        "negative_prompt": "ugly, deformed, noisy, blurry, low contrast"
-    },
-    {
-        "name": "Caricature",
-        "prompt": "Caricature, {prompt}, exaggerated, comical, caricature",
-        "negative_prompt": "ugly, deformed, noisy, blurry, low contrast, realistic"
-    },
-    {
-        "name": "Cel Shaded Art",
-        "prompt": "Cel Shaded Art, {prompt}, 2D, flat color, toon shading, cel shaded style",
-        "negative_prompt": "ugly, deformed, noisy, blurry, low contrast"
-    },
-    {
-        "name": "Character Design Sheet",
-        "prompt": "Character Design Sheet, {prompt}, character reference sheet, character turn around",
-        "negative_prompt": "ugly, deformed, noisy, blurry, low contrast"
-    },
-    {
-        "name": "Classicism Art",
-        "prompt": "Classicism Art, {prompt}, inspired by Roman and Greek culture, clarity, harmonious, classicism art",
-        "negative_prompt": "ugly, deformed, noisy, blurry, low contrast"
-    },
-    {
-        "name": "Color Field Painting",
-        "prompt": "Color Field Painting, {prompt}, abstract, simple, geometic, color field painting style",
-        "negative_prompt": "ugly, deformed, noisy, blurry, low contrast"
-    },
-    {
-        "name": "Colored Pencil Art",
-        "prompt": "Colored Pencil Art, {prompt}, colored pencil strokes, light color, visible paper texture, colored pencil art",
-        "negative_prompt": "ugly, deformed, noisy, blurry, low contrast"
-    },
-    {
-        "name": "Conceptual Art",
-        "prompt": "Conceptual Art, {prompt}, concept art",
-        "negative_prompt": "ugly, deformed, noisy, blurry, low contrast"
-    },
-    {
-        "name": "Constructivism",
-        "prompt": "Constructivism Art, {prompt}, minimalistic, geometric forms, constructivism art",
-        "negative_prompt": "ugly, deformed, noisy, blurry, low contrast"
-    },
-    {
-        "name": "Cubism",
-        "prompt": "Cubism Art, {prompt}, flat geometric forms, cubism art",
-        "negative_prompt": "ugly, deformed, noisy, blurry, low contrast"
-    },
-    {
-        "name": "Dadaism",
-        "prompt": "Dadaism Art, {prompt}, satirical, nonsensical, dadaism art",
-        "negative_prompt": "ugly, deformed, noisy, blurry, low contrast"
-    },
-    {
-        "name": "Dark Fantasy",
-        "prompt": "Dark Fantasy Art, {prompt}, dark, moody, dark fantasy style",
-        "negative_prompt": "ugly, deformed, noisy, blurry, low contrast, bright, sunny"
-    },
-    {
-        "name": "Dark Moody Atmosphere",
-        "prompt": "Dark Moody Atmosphere, {prompt}, dramatic, mysterious, dark moody atmosphere",
-        "negative_prompt": "ugly, deformed, noisy, blurry, low contrast, vibrant, colorful, bright"
-    },
-    {
-        "name": "DMT Art Style",
-        "prompt": "DMT Art Style, {prompt}, bright colors, surreal visuals, swirling patterns, DMT art style",
-        "negative_prompt": "ugly, deformed, noisy, blurry, low contrast"
-    },
-    {
-        "name": "Doodle Art",
-        "prompt": "Doodle Art Style, {prompt}, drawing, freeform, swirling patterns, doodle art style",
-        "negative_prompt": "ugly, deformed, noisy, blurry, low contrast"
-    },
-    {
-        "name": "Double Exposure",
-        "prompt": "Double Exposure Style, {prompt}, double image ghost effect, image combination, double exposure style",
-        "negative_prompt": "ugly, deformed, noisy, blurry, low contrast"
-    },
-    {
-        "name": "Dripping Paint Splatter Art",
-        "prompt": "Dripping Paint Splatter Art, {prompt}, dramatic, paint drips, splatters, dripping paint",
-        "negative_prompt": "ugly, deformed, noisy, blurry, low contrast"
-    },
-    {
-        "name": "Expressionism",
-        "prompt": "Expressionism Art Style, {prompt}, movement, contrast, emotional, exaggerated forms, expressionism art style",
-        "negative_prompt": "ugly, deformed, noisy, blurry, low contrast"
-    },
-    {
-        "name": "Faded Polaroid Photo",
-        "prompt": "Faded Polaroid Photo, {prompt}, analog, old faded photo, old polaroid",
-        "negative_prompt": "ugly, deformed, noisy, blurry, low contrast, vibrant, colorful"
-    },
-    {
-        "name": "Fauvism",
-        "prompt": "Fauvism Art, {prompt}, painterly, bold colors, textured brushwork, fauvism art",
-        "negative_prompt": "ugly, deformed, noisy, blurry, low contrast"
-    },
-    {
-        "name": "Flat 2D Art",
-        "prompt": "Flat 2D Art, {prompt}, simple flat color, 2-dimensional, Flat 2D Art Style",
-        "negative_prompt": "ugly, deformed, noisy, blurry, low contrast, 3D, photo, realistic"
-    },
-    {
-        "name": "Fortnite Art Style",
-        "prompt": "Fortnite Art Style, {prompt}, 3D cartoon, colorful, Fortnite Art Style",
-        "negative_prompt": "ugly, deformed, noisy, blurry, low contrast, photo, realistic"
-    },
-    {
-        "name": "Futurism",
-        "prompt": "Futurism Art Style, {prompt}, dynamic, dramatic, Futurism Art Style",
-        "negative_prompt": "ugly, deformed, noisy, blurry, low contrast"
-    },
-    {
-        "name": "Glitchcore",
-        "prompt": "Glitchcore Art Style, {prompt}, dynamic, dramatic, distorted, vibrant colors, glitchcore art style",
-        "negative_prompt": "ugly, deformed, noisy, blurry, low contrast"
-    },
-    {
-        "name": "Glo-fi",
-        "prompt": "Glo-fi Art Style, {prompt}, dynamic, dramatic, vibrant colors, glo-fi art style",
-        "negative_prompt": "ugly, deformed, noisy, blurry, low contrast"
-    },
-    {
-        "name": "Googie Art Style",
-        "prompt": "Googie Art Style, {prompt}, dynamic, dramatic, 1950's futurism, bold boomerang angles, Googie art style",
-        "negative_prompt": "ugly, deformed, noisy, blurry, low contrast"
-    },
-    {
-        "name": "Graffiti Art",
-        "prompt": "Graffiti Art Style, {prompt}, dynamic, dramatic, vibrant colors, graffiti art style",
-        "negative_prompt": "ugly, deformed, noisy, blurry, low contrast"
-    },
-    {
-        "name": "Harlem Renaissance Art",
-        "prompt": "Harlem Renaissance Art Style, {prompt}, dynamic, dramatic, 1920s African American culture, Harlem Renaissance art style",
-        "negative_prompt": "ugly, deformed, noisy, blurry, low contrast"
-    },
-    {
-        "name": "High Fashion",
-        "prompt": "High Fashion, {prompt}, dynamic, dramatic, haute couture, elegant, ornate clothing, High Fashion",
-        "negative_prompt": "ugly, deformed, noisy, blurry, low contrast"
-    },
-    {
-        "name": "Idyllic",
-        "prompt": "Idyllic, {prompt}, peaceful, happy, pleasant, happy, harmonious, picturesque, charming",
-        "negative_prompt": "ugly, deformed, noisy, blurry, low contrast"
-    },
-    {
-        "name": "Impressionism",
-        "prompt": "Impressionism, {prompt}, painterly, small brushstrokes, visible brushstrokes, impressionistic style",
-        "negative_prompt": "ugly, deformed, noisy, blurry, low contrast"
-    },
-    {
-        "name": "Infographic Drawing",
-        "prompt": "Infographic Drawing, {prompt}, diagram, infographic",
-        "negative_prompt": "ugly, deformed, noisy, blurry, low contrast"
-    },
-    {
-        "name": "Ink Dripping Drawing",
-        "prompt": "Ink Dripping Drawing, {prompt}, ink drawing, dripping ink",
-        "negative_prompt": "ugly, deformed, noisy, blurry, low contrast, colorful, vibrant"
-    },
-    {
-        "name": "Japanese Ink Drawing",
-        "prompt": "Japanese Ink Drawing, {prompt}, ink drawing, inkwash, Japanese Ink Drawing",
-        "negative_prompt": "ugly, deformed, noisy, blurry, low contrast, colorful, vibrant"
-    },
-    {
-        "name": "Knolling Photography",
-        "prompt": "Knolling Photography, {prompt}, flat lay photography, object arrangment, knolling photography",
-        "negative_prompt": "ugly, deformed, noisy, blurry, low contrast"
-    },
-    {
-        "name": "Light Cheery Atmosphere",
-        "prompt": "Light Cheery Atmosphere, {prompt}, happy, joyful, cheerful, carefree, gleeful, lighthearted, pleasant atmosphere",
-        "negative_prompt": "ugly, deformed, noisy, blurry, low contrast, monochromatic, dark, moody"
-    },
-    {
-        "name": "Logo Design",
-        "prompt": "Logo Design, {prompt}, dynamic graphic art, vector art, minimalist, professional logo design",
-        "negative_prompt": "ugly, deformed, noisy, blurry, low contrast"
-    },
-    {
-        "name": "Luxurious Elegance",
-        "prompt": "Luxurious Elegance, {prompt}, extravagant, ornate, designer, opulent, picturesque, lavish",
-        "negative_prompt": "ugly, deformed, noisy, blurry, low contrast"
-    },
-    {
-        "name": "Macro Photography",
-        "prompt": "Macro Photography, {prompt}, close-up, macro 100mm, macro photography",
-        "negative_prompt": "ugly, deformed, noisy, blurry, low contrast"
-    },
-    {
-        "name": "Mandola Art",
-        "prompt": "Mandola art style, {prompt}, complex, circular design, mandola",
-        "negative_prompt": "ugly, deformed, noisy, blurry, low contrast"
-    },
-    {
-        "name": "Marker Drawing",
-        "prompt": "Marker Drawing, {prompt}, bold marker lines, visibile paper texture, marker drawing",
-        "negative_prompt": "ugly, deformed, noisy, blurry, low contrast, photograph, realistic"
-    },
-    {
-        "name": "Medievalism",
-        "prompt": "Medievalism, {prompt}, inspired by The Middle Ages, medieval art, elaborate patterns and decoration, Medievalism",
-        "negative_prompt": "ugly, deformed, noisy, blurry, low contrast"
-    },
-    {
-        "name": "Minimalism",
-        "prompt": "Minimalism, {prompt}, abstract, simple geometic shapes, hard edges, sleek contours, Minimalism",
-        "negative_prompt": "ugly, deformed, noisy, blurry, low contrast"
-    },
-    {
-        "name": "Neo-Baroque",
-        "prompt": "Neo-Baroque, {prompt}, ornate and elaborate, dynaimc, Neo-Baroque",
-        "negative_prompt": "ugly, deformed, noisy, blurry, low contrast"
-    },
-    {
-        "name": "Neo-Byzantine",
-        "prompt": "Neo-Byzantine, {prompt}, grand decorative religious style, Orthodox Christian inspired, Neo-Byzantine",
-        "negative_prompt": "ugly, deformed, noisy, blurry, low contrast"
-    },
-    {
-        "name": "Neo-Futurism",
-        "prompt": "Neo-Futurism, {prompt}, high-tech, curves, spirals, flowing lines, idealistic future, Neo-Futurism",
-        "negative_prompt": "ugly, deformed, noisy, blurry, low contrast"
-    },
-    {
-        "name": "Neo-Impressionism",
-        "prompt": "Neo-Impressionism, {prompt}, tiny dabs of color, Pointillism, painterly, Neo-Impressionism",
-        "negative_prompt": "ugly, deformed, noisy, blurry, low contrast, photograph, realistic"
-    },
-    {
-        "name": "Neo-Rococo",
-        "prompt": "Neo-Rococo, {prompt}, curved forms, naturalistic ornamentation, elaborate, decorative, gaudy, Neo-Rococo",
-        "negative_prompt": "ugly, deformed, noisy, blurry, low contrast"
-    },
-    {
-        "name": "Neoclassicism",
-        "prompt": "Neoclassicism, {prompt}, ancient Rome and Greece inspired, idealic, sober colors, Neoclassicism",
-        "negative_prompt": "ugly, deformed, noisy, blurry, low contrast"
-    },
-    {
-        "name": "Op Art",
-        "prompt": "Op Art, {prompt}, optical illusion, abstract, geometric pattern, impression of movement, Op Art",
-        "negative_prompt": "ugly, deformed, noisy, blurry, low contrast"
-    },
-    {
-        "name": "Ornate and Intricate",
-        "prompt": "Ornate and Intricate, {prompt}, decorative, highly detailed, elaborate, ornate, intricate",
-        "negative_prompt": "ugly, deformed, noisy, blurry, low contrast"
-    },
-    {
-        "name": "Pencil Sketch Drawing",
-        "prompt": "Pencil Sketch Drawing, {prompt}, black and white drawing, graphite drawing",
-        "negative_prompt": "ugly, deformed, noisy, blurry, low contrast"
-    },
-    {
-        "name": "Pop Art 2",
-        "prompt": "Pop Art, {prompt}, vivid colors, flat color, 2D, strong lines, Pop Art",
-        "negative_prompt": "ugly, deformed, noisy, blurry, low contrast, photo, realistic"
-    },
-    {
-        "name": "Rococo",
-        "prompt": "Rococo, {prompt}, flamboyant, pastel colors, curved lines, elaborate detail, Rococo",
-        "negative_prompt": "ugly, deformed, noisy, blurry, low contrast"
-    },
-    {
-        "name": "Silhouette Art",
-        "prompt": "Silhouette Art, {prompt}, high contrast, well defined, Silhouette Art",
-        "negative_prompt": "ugly, deformed, noisy, blurry, low contrast"
-    },
-    {
-        "name": "Simple Vector Art",
-        "prompt": "Simple Vector Art, {prompt}, 2D flat, simple shapes, minimalistic, professional graphic, flat color, high contrast, Simple Vector Art",
-        "negative_prompt": "ugly, deformed, noisy, blurry, low contrast, 3D, photo, realistic"
-    },
-    {
-        "name": "Sketchup",
-        "prompt": "Sketchup, {prompt}, CAD, professional design, Sketchup",
-        "negative_prompt": "ugly, deformed, noisy, blurry, low contrast, photo, photograph"
-    },
-    {
-        "name": "Steampunk 2",
-        "prompt": "Steampunk, {prompt}, retrofuturistic science fantasy, steam-powered tech, vintage industry, gears, neo-victorian, steampunk",
-        "negative_prompt": "ugly, deformed, noisy, blurry, low contrast"
-    },
-    {
-        "name": "Surrealism",
-        "prompt": "Surrealism, {prompt}, expressive, dramatic, organic lines and forms, dreamlike and mysterious, Surrealism",
-        "negative_prompt": "ugly, deformed, noisy, blurry, low contrast, realistic"
-    },
-    {
-        "name": "Suprematism",
-        "prompt": "Suprematism, {prompt}, abstract, limited color palette, geometric forms, Suprematism",
-        "negative_prompt": "ugly, deformed, noisy, blurry, low contrast, realistic"
-    },
-    {
-        "name": "Terragen",
-        "prompt": "Terragen, {prompt}, beautiful massive landscape, epic scenery, Terragen",
-        "negative_prompt": "ugly, deformed, noisy, blurry, low contrast"
-    },
-    {
-        "name": "Tranquil Relaxing Atmosphere",
-        "prompt": "Tranquil Relaxing Atmosphere, {prompt}, calming style, soothing colors, peaceful, idealic, Tranquil Relaxing Atmosphere",
-        "negative_prompt": "ugly, deformed, noisy, blurry, low contrast, oversaturated"
-    },
-    {
-        "name": "Sticker Designs",
-        "prompt": "Vector Art Stickers, {prompt}, professional vector design, sticker designs, Sticker Sheet",
-        "negative_prompt": "ugly, deformed, noisy, blurry, low contrast"
-    },
-    {
-        "name": "Vibrant Rim Light",
-        "prompt": "Vibrant Rim Light, {prompt}, bright rim light, high contrast, bold edge light",
-        "negative_prompt": "ugly, deformed, noisy, blurry, low contrast"
-    },
-    {
-        "name": "Volumetric Lighting",
-        "prompt": "Volumetric Lighting, {prompt}, light depth, dramatic atmospheric lighting, Volumetric Lighting",
-        "negative_prompt": "ugly, deformed, noisy, blurry, low contrast"
-    },
-    {
-        "name": "Watercolor 2",
-        "prompt": "Watercolor style painting, {prompt}, visible paper texture, colorwash, watercolor",
-        "negative_prompt": "ugly, deformed, noisy, blurry, low contrast, photo, realistic"
-    },
-    {
-        "name": "Whimsical and Playful",
-        "prompt": "Whimsical and Playful, {prompt}, imaginative, fantastical, bight colors, stylized, happy, Whimsical and Playful",
-        "negative_prompt": "ugly, deformed, noisy, blurry, low contrast, drab, boring, moody"
-    },
-    {
-        "name": "mre-cinematic-dynamic",
-        "prompt": "epic cinematic shot of dynamic {prompt} in motion. main subject of high budget action movie. raw photo, motion blur. best quality, high resolution",
-        "negative_prompt": "static, still, motionless, sluggish. drawing, painting, illustration, rendered. low budget. low quality, low resolution"
-    },
-    {
-        "name": "mre-spontaneous-picture",
-        "prompt": "spontaneous picture of {prompt}, taken by talented amateur. best quality, high resolution. magical moment, natural look. simple but good looking",
-        "negative_prompt": "overthinked. low quality, low resolution"
-    },
-    {
-        "name": "mre-artistic-vision",
-        "prompt": "powerful artistic vision of {prompt}. breathtaking masterpiece made by great artist. best quality, high resolution",
-        "negative_prompt": "insignificant, flawed, made by bad artist. low quality, low resolution"
-    },
-    {
-        "name": "mre-dark-dream",
-        "prompt": "dark and unsettling dream showing {prompt}. best quality, high resolution. created by genius but depressed mad artist. grim beauty",
-        "negative_prompt": "naive, cheerful. comfortable, casual, boring, cliche. low quality, low resolution"
-    },
-    {
-        "name": "mre-gloomy-art",
-        "prompt": "astonishing gloomy art made mainly of shadows and lighting, forming {prompt}. masterful usage of lighting, shadows and chiaroscuro. made by black-hearted artist, drawing from darkness. best quality, high resolution",
-        "negative_prompt": "low quality, low resolution"
-    },
-    {
-        "name": "mre-bad-dream",
-        "prompt": "picture from really bad dream about terrifying {prompt}, true horror. bone-chilling vision. mad world that shouldn't exist. best quality, high resolution",
-        "negative_prompt": "nice dream, pleasant experience. low quality, low resolution"
-    },
-    {
-        "name": "mre-underground",
-        "prompt": "uncanny caliginous vision of {prompt}, created by remarkable underground artist. best quality, high resolution. raw and brutal art, careless but impressive style. inspired by darkness and chaos",
-        "negative_prompt": "photography, mainstream, civilized. low quality, low resolution"
-    },
-    {
-        "name": "mre-surreal-painting",
-        "prompt": "surreal painting representing strange vision of {prompt}. harmonious madness, synergy with chance. unique artstyle, mindbending art, magical surrealism. best quality, high resolution",
-        "negative_prompt": "photography, illustration, drawing. realistic, possible. logical, sane. low quality, low resolution"
-    },
-    {
-        "name": "mre-dynamic-illustration",
-        "prompt": "insanely dynamic illustration of {prompt}. best quality, high resolution. crazy artstyle, careless brushstrokes, emotional and fun",
-        "negative_prompt": "photography, realistic. static, still, slow, boring. low quality, low resolution"
-    },
-    {
-        "name": "mre-undead-art",
-        "prompt": "long forgotten art created by undead artist illustrating {prompt}, tribute to the death and decay. miserable art of the damned. wretched and decaying world. best quality, high resolution",
-        "negative_prompt": "alive, playful, living. low quality, low resolution"
-    },
-    {
-        "name": "mre-elemental-art",
-        "prompt": "art illustrating insane amounts of raging elemental energy turning into {prompt}, avatar of elements. magical surrealism, wizardry. best quality, high resolution",
-        "negative_prompt": "photography, realistic, real. low quality, low resolution"
-    },
-    {
-        "name": "mre-space-art",
-        "prompt": "winner of inter-galactic art contest illustrating {prompt}, symbol of the interstellar singularity. best quality, high resolution. artstyle previously unseen in the whole galaxy",
-        "negative_prompt": "created by human race, low quality, low resolution"
-    },
-    {
-        "name": "mre-ancient-illustration",
-        "prompt": "sublime ancient illustration of {prompt}, predating human civilization. crude and simple, but also surprisingly beautiful artwork, made by genius primeval artist. best quality, high resolution",
-        "negative_prompt": "low quality, low resolution"
-    },
-    {
-        "name": "mre-brave-art",
-        "prompt": "brave, shocking, and brutally true art showing {prompt}. inspired by courage and unlimited creativity. truth found in chaos. best quality, high resolution",
-        "negative_prompt": "low quality, low resolution"
-    },
-    {
-        "name": "mre-heroic-fantasy",
-        "prompt": "heroic fantasy painting of {prompt}, in the dangerous fantasy world. airbrush over oil on canvas. best quality, high resolution",
-        "negative_prompt": "low quality, low resolution"
-    },
-    {
-        "name": "mre-dark-cyberpunk",
-        "prompt": "dark cyberpunk illustration of brutal {prompt} in a world without hope, ruled by ruthless criminal corporations. best quality, high resolution",
-        "negative_prompt": "low quality, low resolution"
-    },
-    {
-        "name": "mre-lyrical-geometry",
-        "prompt": "geometric and lyrical abstraction painting presenting {prompt}. oil on metal. best quality, high resolution",
-        "negative_prompt": "photography, realistic, drawing, rendered. low quality, low resolution"
-    },
-    {
-        "name": "mre-sumi-e-symbolic",
-        "prompt": "big long brushstrokes of deep black sumi-e turning into symbolic painting of {prompt}. master level raw art. best quality, high resolution",
-        "negative_prompt": "photography, rendered. low quality, low resolution"
-    },
-    {
-        "name": "mre-sumi-e-detailed",
-        "prompt": "highly detailed black sumi-e painting of {prompt}. in-depth study of perfection, created by a master. best quality, high resolution",
-        "negative_prompt": "low quality, low resolution"
-    },
-    {
-        "name": "mre-manga",
-        "prompt": "manga artwork presenting {prompt}. created by japanese manga artist. highly emotional. best quality, high resolution",
-        "negative_prompt": "low quality, low resolution"
-    },
-    {
-        "name": "mre-anime",
-        "prompt": "anime artwork illustrating {prompt}. created by japanese anime studio. highly emotional. best quality, high resolution",
-        "negative_prompt": "low quality, low resolution"
-    },
-    {
-        "name": "mre-comic",
-        "prompt": "breathtaking illustration from adult comic book presenting {prompt}. fabulous artwork. best quality, high resolution",
-        "negative_prompt": "deformed, ugly, low quality, low resolution"
-    },
-    {
         "name": "sai-3d-model",
         "prompt": "professional 3d model {prompt} . octane render, highly detailed, volumetric, dramatic lighting",
         "negative_prompt": "ugly, deformed, noisy, low poly, blurry, painting"
@@ -1071,6 +566,511 @@ styles = [
         "name": "photo-tilt-shift",
         "prompt": "tilt-shift photo of {prompt} . selective focus, miniature effect, blurred background, highly detailed, vibrant, perspective control",
         "negative_prompt": "blurry, noisy, deformed, flat, low contrast, unrealistic, oversaturated, underexposed"
+    },
+    {
+        "name": "cinematic-diva",
+        "prompt": "UHD, 8K, ultra detailed, a cinematic photograph of {prompt}, beautiful lighting, great composition",
+        "negative_prompt": "ugly, deformed, noisy, blurry, NSFW"
+    },
+    {
+        "name": "Abstract Expressionism",
+        "prompt": "Abstract Expressionism Art, {prompt}, High contrast, minimalistic, colorful, stark, dramatic, expressionism",
+        "negative_prompt": "ugly, deformed, noisy, blurry, low contrast, realism, photorealistic"
+    },
+    {
+        "name": "Academia",
+        "prompt": "Academia, {prompt}, preppy Ivy League style, stark, dramatic, chic boarding school, academia",
+        "negative_prompt": "ugly, deformed, noisy, blurry, low contrast, grunge, sloppy, unkempt"
+    },
+    {
+        "name": "Action Figure",
+        "prompt": "Action Figure, {prompt}, plastic collectable action figure, collectable toy action figure",
+        "negative_prompt": "ugly, deformed, noisy, blurry, low contrast"
+    },
+    {
+        "name": "Adorable 3D Character",
+        "prompt": "Adorable 3D Character, {prompt}, 3D render, adorable character, 3D art",
+        "negative_prompt": "ugly, deformed, noisy, blurry, low contrast, grunge, sloppy, unkempt, photograph, photo, realistic"
+    },
+    {
+        "name": "Adorable Kawaii",
+        "prompt": "Adorable Kawaii, {prompt}, pretty, cute, adorable, kawaii",
+        "negative_prompt": "ugly, deformed, noisy, blurry, low contrast, gothic, dark, moody, monochromatic"
+    },
+    {
+        "name": "Art Deco",
+        "prompt": "Art Deco, {prompt}, sleek, geometric forms, art deco style",
+        "negative_prompt": "ugly, deformed, noisy, blurry, low contrast"
+    },
+    {
+        "name": "Art Nouveau",
+        "prompt": "Art Nouveau, beautiful art, {prompt}, sleek, organic forms, long, sinuous, art nouveau style",
+        "negative_prompt": "ugly, deformed, noisy, blurry, low contrast, industrial, mechanical"
+    },
+    {
+        "name": "Astral Aura",
+        "prompt": "Astral Aura, {prompt}, astral, colorful aura, vibrant energy",
+        "negative_prompt": "ugly, deformed, noisy, blurry, low contrast"
+    },
+    {
+        "name": "Avant-garde",
+        "prompt": "Avant-garde, {prompt}, unusual, experimental, avant-garde art",
+        "negative_prompt": "ugly, deformed, noisy, blurry, low contrast"
+    },
+    {
+        "name": "Baroque",
+        "prompt": "Baroque, {prompt}, dramatic, exuberant, grandeur, baroque art",
+        "negative_prompt": "ugly, deformed, noisy, blurry, low contrast"
+    },
+    {
+        "name": "Bauhaus-Style Poster",
+        "prompt": "Bauhaus-Style Poster, {prompt}, simple geometric shapes, clean lines, primary colors, Bauhaus-Style Poster",
+        "negative_prompt": "ugly, deformed, noisy, blurry, low contrast"
+    },
+    {
+        "name": "Blueprint Schematic Drawing",
+        "prompt": "Blueprint Schematic Drawing, {prompt}, technical drawing, blueprint, schematic",
+        "negative_prompt": "ugly, deformed, noisy, blurry, low contrast"
+    },
+    {
+        "name": "Caricature",
+        "prompt": "Caricature, {prompt}, exaggerated, comical, caricature",
+        "negative_prompt": "ugly, deformed, noisy, blurry, low contrast, realistic"
+    },
+    {
+        "name": "Cel Shaded Art",
+        "prompt": "Cel Shaded Art, {prompt}, 2D, flat color, toon shading, cel shaded style",
+        "negative_prompt": "ugly, deformed, noisy, blurry, low contrast"
+    },
+    {
+        "name": "Character Design Sheet",
+        "prompt": "Character Design Sheet, {prompt}, character reference sheet, character turn around",
+        "negative_prompt": "ugly, deformed, noisy, blurry, low contrast"
+    },
+    {
+        "name": "Classicism Art",
+        "prompt": "Classicism Art, {prompt}, inspired by Roman and Greek culture, clarity, harmonious, classicism art",
+        "negative_prompt": "ugly, deformed, noisy, blurry, low contrast"
+    },
+    {
+        "name": "Color Field Painting",
+        "prompt": "Color Field Painting, {prompt}, abstract, simple, geometic, color field painting style",
+        "negative_prompt": "ugly, deformed, noisy, blurry, low contrast"
+    },
+    {
+        "name": "Colored Pencil Art",
+        "prompt": "Colored Pencil Art, {prompt}, colored pencil strokes, light color, visible paper texture, colored pencil art",
+        "negative_prompt": "ugly, deformed, noisy, blurry, low contrast"
+    },
+    {
+        "name": "Conceptual Art",
+        "prompt": "Conceptual Art, {prompt}, concept art",
+        "negative_prompt": "ugly, deformed, noisy, blurry, low contrast"
+    },
+    {
+        "name": "Constructivism",
+        "prompt": "Constructivism Art, {prompt}, minimalistic, geometric forms, constructivism art",
+        "negative_prompt": "ugly, deformed, noisy, blurry, low contrast"
+    },
+    {
+        "name": "Cubism",
+        "prompt": "Cubism Art, {prompt}, flat geometric forms, cubism art",
+        "negative_prompt": "ugly, deformed, noisy, blurry, low contrast"
+    },
+    {
+        "name": "Dadaism",
+        "prompt": "Dadaism Art, {prompt}, satirical, nonsensical, dadaism art",
+        "negative_prompt": "ugly, deformed, noisy, blurry, low contrast"
+    },
+    {
+        "name": "Dark Fantasy",
+        "prompt": "Dark Fantasy Art, {prompt}, dark, moody, dark fantasy style",
+        "negative_prompt": "ugly, deformed, noisy, blurry, low contrast, bright, sunny"
+    },
+    {
+        "name": "Dark Moody Atmosphere",
+        "prompt": "Dark Moody Atmosphere, {prompt}, dramatic, mysterious, dark moody atmosphere",
+        "negative_prompt": "ugly, deformed, noisy, blurry, low contrast, vibrant, colorful, bright"
+    },
+    {
+        "name": "DMT Art Style",
+        "prompt": "DMT Art Style, {prompt}, bright colors, surreal visuals, swirling patterns, DMT art style",
+        "negative_prompt": "ugly, deformed, noisy, blurry, low contrast"
+    },
+    {
+        "name": "Doodle Art",
+        "prompt": "Doodle Art Style, {prompt}, drawing, freeform, swirling patterns, doodle art style",
+        "negative_prompt": "ugly, deformed, noisy, blurry, low contrast"
+    },
+    {
+        "name": "Double Exposure",
+        "prompt": "Double Exposure Style, {prompt}, double image ghost effect, image combination, double exposure style",
+        "negative_prompt": "ugly, deformed, noisy, blurry, low contrast"
+    },
+    {
+        "name": "Dripping Paint Splatter Art",
+        "prompt": "Dripping Paint Splatter Art, {prompt}, dramatic, paint drips, splatters, dripping paint",
+        "negative_prompt": "ugly, deformed, noisy, blurry, low contrast"
+    },
+    {
+        "name": "Expressionism",
+        "prompt": "Expressionism Art Style, {prompt}, movement, contrast, emotional, exaggerated forms, expressionism art style",
+        "negative_prompt": "ugly, deformed, noisy, blurry, low contrast"
+    },
+    {
+        "name": "Faded Polaroid Photo",
+        "prompt": "Faded Polaroid Photo, {prompt}, analog, old faded photo, old polaroid",
+        "negative_prompt": "ugly, deformed, noisy, blurry, low contrast, vibrant, colorful"
+    },
+    {
+        "name": "Fauvism",
+        "prompt": "Fauvism Art, {prompt}, painterly, bold colors, textured brushwork, fauvism art",
+        "negative_prompt": "ugly, deformed, noisy, blurry, low contrast"
+    },
+    {
+        "name": "Flat 2D Art",
+        "prompt": "Flat 2D Art, {prompt}, simple flat color, 2-dimensional, Flat 2D Art Style",
+        "negative_prompt": "ugly, deformed, noisy, blurry, low contrast, 3D, photo, realistic"
+    },
+    {
+        "name": "Fortnite Art Style",
+        "prompt": "Fortnite Art Style, {prompt}, 3D cartoon, colorful, Fortnite Art Style",
+        "negative_prompt": "ugly, deformed, noisy, blurry, low contrast, photo, realistic"
+    },
+    {
+        "name": "Futurism",
+        "prompt": "Futurism Art Style, {prompt}, dynamic, dramatic, Futurism Art Style",
+        "negative_prompt": "ugly, deformed, noisy, blurry, low contrast"
+    },
+    {
+        "name": "Glitchcore",
+        "prompt": "Glitchcore Art Style, {prompt}, dynamic, dramatic, distorted, vibrant colors, glitchcore art style",
+        "negative_prompt": "ugly, deformed, noisy, blurry, low contrast"
+    },
+    {
+        "name": "Glo-fi",
+        "prompt": "Glo-fi Art Style, {prompt}, dynamic, dramatic, vibrant colors, glo-fi art style",
+        "negative_prompt": "ugly, deformed, noisy, blurry, low contrast"
+    },
+    {
+        "name": "Googie Art Style",
+        "prompt": "Googie Art Style, {prompt}, dynamic, dramatic, 1950's futurism, bold boomerang angles, Googie art style",
+        "negative_prompt": "ugly, deformed, noisy, blurry, low contrast"
+    },
+    {
+        "name": "Graffiti Art",
+        "prompt": "Graffiti Art Style, {prompt}, dynamic, dramatic, vibrant colors, graffiti art style",
+        "negative_prompt": "ugly, deformed, noisy, blurry, low contrast"
+    },
+    {
+        "name": "Harlem Renaissance Art",
+        "prompt": "Harlem Renaissance Art Style, {prompt}, dynamic, dramatic, 1920s African American culture, Harlem Renaissance art style",
+        "negative_prompt": "ugly, deformed, noisy, blurry, low contrast"
+    },
+    {
+        "name": "High Fashion",
+        "prompt": "High Fashion, {prompt}, dynamic, dramatic, haute couture, elegant, ornate clothing, High Fashion",
+        "negative_prompt": "ugly, deformed, noisy, blurry, low contrast"
+    },
+    {
+        "name": "Idyllic",
+        "prompt": "Idyllic, {prompt}, peaceful, happy, pleasant, happy, harmonious, picturesque, charming",
+        "negative_prompt": "ugly, deformed, noisy, blurry, low contrast"
+    },
+    {
+        "name": "Impressionism",
+        "prompt": "Impressionism, {prompt}, painterly, small brushstrokes, visible brushstrokes, impressionistic style",
+        "negative_prompt": "ugly, deformed, noisy, blurry, low contrast"
+    },
+    {
+        "name": "Infographic Drawing",
+        "prompt": "Infographic Drawing, {prompt}, diagram, infographic",
+        "negative_prompt": "ugly, deformed, noisy, blurry, low contrast"
+    },
+    {
+        "name": "Ink Dripping Drawing",
+        "prompt": "Ink Dripping Drawing, {prompt}, ink drawing, dripping ink",
+        "negative_prompt": "ugly, deformed, noisy, blurry, low contrast, colorful, vibrant"
+    },
+    {
+        "name": "Japanese Ink Drawing",
+        "prompt": "Japanese Ink Drawing, {prompt}, ink drawing, inkwash, Japanese Ink Drawing",
+        "negative_prompt": "ugly, deformed, noisy, blurry, low contrast, colorful, vibrant"
+    },
+    {
+        "name": "Knolling Photography",
+        "prompt": "Knolling Photography, {prompt}, flat lay photography, object arrangment, knolling photography",
+        "negative_prompt": "ugly, deformed, noisy, blurry, low contrast"
+    },
+    {
+        "name": "Light Cheery Atmosphere",
+        "prompt": "Light Cheery Atmosphere, {prompt}, happy, joyful, cheerful, carefree, gleeful, lighthearted, pleasant atmosphere",
+        "negative_prompt": "ugly, deformed, noisy, blurry, low contrast, monochromatic, dark, moody"
+    },
+    {
+        "name": "Logo Design",
+        "prompt": "Logo Design, {prompt}, dynamic graphic art, vector art, minimalist, professional logo design",
+        "negative_prompt": "ugly, deformed, noisy, blurry, low contrast"
+    },
+    {
+        "name": "Luxurious Elegance",
+        "prompt": "Luxurious Elegance, {prompt}, extravagant, ornate, designer, opulent, picturesque, lavish",
+        "negative_prompt": "ugly, deformed, noisy, blurry, low contrast"
+    },
+    {
+        "name": "Macro Photography",
+        "prompt": "Macro Photography, {prompt}, close-up, macro 100mm, macro photography",
+        "negative_prompt": "ugly, deformed, noisy, blurry, low contrast"
+    },
+    {
+        "name": "Mandola Art",
+        "prompt": "Mandola art style, {prompt}, complex, circular design, mandola",
+        "negative_prompt": "ugly, deformed, noisy, blurry, low contrast"
+    },
+    {
+        "name": "Marker Drawing",
+        "prompt": "Marker Drawing, {prompt}, bold marker lines, visibile paper texture, marker drawing",
+        "negative_prompt": "ugly, deformed, noisy, blurry, low contrast, photograph, realistic"
+    },
+    {
+        "name": "Medievalism",
+        "prompt": "Medievalism, {prompt}, inspired by The Middle Ages, medieval art, elaborate patterns and decoration, Medievalism",
+        "negative_prompt": "ugly, deformed, noisy, blurry, low contrast"
+    },
+    {
+        "name": "Minimalism",
+        "prompt": "Minimalism, {prompt}, abstract, simple geometic shapes, hard edges, sleek contours, Minimalism",
+        "negative_prompt": "ugly, deformed, noisy, blurry, low contrast"
+    },
+    {
+        "name": "Neo-Baroque",
+        "prompt": "Neo-Baroque, {prompt}, ornate and elaborate, dynaimc, Neo-Baroque",
+        "negative_prompt": "ugly, deformed, noisy, blurry, low contrast"
+    },
+    {
+        "name": "Neo-Byzantine",
+        "prompt": "Neo-Byzantine, {prompt}, grand decorative religious style, Orthodox Christian inspired, Neo-Byzantine",
+        "negative_prompt": "ugly, deformed, noisy, blurry, low contrast"
+    },
+    {
+        "name": "Neo-Futurism",
+        "prompt": "Neo-Futurism, {prompt}, high-tech, curves, spirals, flowing lines, idealistic future, Neo-Futurism",
+        "negative_prompt": "ugly, deformed, noisy, blurry, low contrast"
+    },
+    {
+        "name": "Neo-Impressionism",
+        "prompt": "Neo-Impressionism, {prompt}, tiny dabs of color, Pointillism, painterly, Neo-Impressionism",
+        "negative_prompt": "ugly, deformed, noisy, blurry, low contrast, photograph, realistic"
+    },
+    {
+        "name": "Neo-Rococo",
+        "prompt": "Neo-Rococo, {prompt}, curved forms, naturalistic ornamentation, elaborate, decorative, gaudy, Neo-Rococo",
+        "negative_prompt": "ugly, deformed, noisy, blurry, low contrast"
+    },
+    {
+        "name": "Neoclassicism",
+        "prompt": "Neoclassicism, {prompt}, ancient Rome and Greece inspired, idealic, sober colors, Neoclassicism",
+        "negative_prompt": "ugly, deformed, noisy, blurry, low contrast"
+    },
+    {
+        "name": "Op Art",
+        "prompt": "Op Art, {prompt}, optical illusion, abstract, geometric pattern, impression of movement, Op Art",
+        "negative_prompt": "ugly, deformed, noisy, blurry, low contrast"
+    },
+    {
+        "name": "Ornate and Intricate",
+        "prompt": "Ornate and Intricate, {prompt}, decorative, highly detailed, elaborate, ornate, intricate",
+        "negative_prompt": "ugly, deformed, noisy, blurry, low contrast"
+    },
+    {
+        "name": "Pencil Sketch Drawing",
+        "prompt": "Pencil Sketch Drawing, {prompt}, black and white drawing, graphite drawing",
+        "negative_prompt": "ugly, deformed, noisy, blurry, low contrast"
+    },
+    {
+        "name": "Pop Art 2",
+        "prompt": "Pop Art, {prompt}, vivid colors, flat color, 2D, strong lines, Pop Art",
+        "negative_prompt": "ugly, deformed, noisy, blurry, low contrast, photo, realistic"
+    },
+    {
+        "name": "Rococo",
+        "prompt": "Rococo, {prompt}, flamboyant, pastel colors, curved lines, elaborate detail, Rococo",
+        "negative_prompt": "ugly, deformed, noisy, blurry, low contrast"
+    },
+    {
+        "name": "Silhouette Art",
+        "prompt": "Silhouette Art, {prompt}, high contrast, well defined, Silhouette Art",
+        "negative_prompt": "ugly, deformed, noisy, blurry, low contrast"
+    },
+    {
+        "name": "Simple Vector Art",
+        "prompt": "Simple Vector Art, {prompt}, 2D flat, simple shapes, minimalistic, professional graphic, flat color, high contrast, Simple Vector Art",
+        "negative_prompt": "ugly, deformed, noisy, blurry, low contrast, 3D, photo, realistic"
+    },
+    {
+        "name": "Sketchup",
+        "prompt": "Sketchup, {prompt}, CAD, professional design, Sketchup",
+        "negative_prompt": "ugly, deformed, noisy, blurry, low contrast, photo, photograph"
+    },
+    {
+        "name": "Steampunk 2",
+        "prompt": "Steampunk, {prompt}, retrofuturistic science fantasy, steam-powered tech, vintage industry, gears, neo-victorian, steampunk",
+        "negative_prompt": "ugly, deformed, noisy, blurry, low contrast"
+    },
+    {
+        "name": "Surrealism",
+        "prompt": "Surrealism, {prompt}, expressive, dramatic, organic lines and forms, dreamlike and mysterious, Surrealism",
+        "negative_prompt": "ugly, deformed, noisy, blurry, low contrast, realistic"
+    },
+    {
+        "name": "Suprematism",
+        "prompt": "Suprematism, {prompt}, abstract, limited color palette, geometric forms, Suprematism",
+        "negative_prompt": "ugly, deformed, noisy, blurry, low contrast, realistic"
+    },
+    {
+        "name": "Terragen",
+        "prompt": "Terragen, {prompt}, beautiful massive landscape, epic scenery, Terragen",
+        "negative_prompt": "ugly, deformed, noisy, blurry, low contrast"
+    },
+    {
+        "name": "Tranquil Relaxing Atmosphere",
+        "prompt": "Tranquil Relaxing Atmosphere, {prompt}, calming style, soothing colors, peaceful, idealic, Tranquil Relaxing Atmosphere",
+        "negative_prompt": "ugly, deformed, noisy, blurry, low contrast, oversaturated"
+    },
+    {
+        "name": "Sticker Designs",
+        "prompt": "Vector Art Stickers, {prompt}, professional vector design, sticker designs, Sticker Sheet",
+        "negative_prompt": "ugly, deformed, noisy, blurry, low contrast"
+    },
+    {
+        "name": "Vibrant Rim Light",
+        "prompt": "Vibrant Rim Light, {prompt}, bright rim light, high contrast, bold edge light",
+        "negative_prompt": "ugly, deformed, noisy, blurry, low contrast"
+    },
+    {
+        "name": "Volumetric Lighting",
+        "prompt": "Volumetric Lighting, {prompt}, light depth, dramatic atmospheric lighting, Volumetric Lighting",
+        "negative_prompt": "ugly, deformed, noisy, blurry, low contrast"
+    },
+    {
+        "name": "Watercolor 2",
+        "prompt": "Watercolor style painting, {prompt}, visible paper texture, colorwash, watercolor",
+        "negative_prompt": "ugly, deformed, noisy, blurry, low contrast, photo, realistic"
+    },
+    {
+        "name": "Whimsical and Playful",
+        "prompt": "Whimsical and Playful, {prompt}, imaginative, fantastical, bight colors, stylized, happy, Whimsical and Playful",
+        "negative_prompt": "ugly, deformed, noisy, blurry, low contrast, drab, boring, moody"
+    },
+    {
+        "name": "mre-cinematic-dynamic",
+        "prompt": "epic cinematic shot of dynamic {prompt} in motion. main subject of high budget action movie. raw photo, motion blur. best quality, high resolution",
+        "negative_prompt": "static, still, motionless, sluggish. drawing, painting, illustration, rendered. low budget. low quality, low resolution"
+    },
+    {
+        "name": "mre-spontaneous-picture",
+        "prompt": "spontaneous picture of {prompt}, taken by talented amateur. best quality, high resolution. magical moment, natural look. simple but good looking",
+        "negative_prompt": "overthinked. low quality, low resolution"
+    },
+    {
+        "name": "mre-artistic-vision",
+        "prompt": "powerful artistic vision of {prompt}. breathtaking masterpiece made by great artist. best quality, high resolution",
+        "negative_prompt": "insignificant, flawed, made by bad artist. low quality, low resolution"
+    },
+    {
+        "name": "mre-dark-dream",
+        "prompt": "dark and unsettling dream showing {prompt}. best quality, high resolution. created by genius but depressed mad artist. grim beauty",
+        "negative_prompt": "naive, cheerful. comfortable, casual, boring, cliche. low quality, low resolution"
+    },
+    {
+        "name": "mre-gloomy-art",
+        "prompt": "astonishing gloomy art made mainly of shadows and lighting, forming {prompt}. masterful usage of lighting, shadows and chiaroscuro. made by black-hearted artist, drawing from darkness. best quality, high resolution",
+        "negative_prompt": "low quality, low resolution"
+    },
+    {
+        "name": "mre-bad-dream",
+        "prompt": "picture from really bad dream about terrifying {prompt}, true horror. bone-chilling vision. mad world that shouldn't exist. best quality, high resolution",
+        "negative_prompt": "nice dream, pleasant experience. low quality, low resolution"
+    },
+    {
+        "name": "mre-underground",
+        "prompt": "uncanny caliginous vision of {prompt}, created by remarkable underground artist. best quality, high resolution. raw and brutal art, careless but impressive style. inspired by darkness and chaos",
+        "negative_prompt": "photography, mainstream, civilized. low quality, low resolution"
+    },
+    {
+        "name": "mre-surreal-painting",
+        "prompt": "surreal painting representing strange vision of {prompt}. harmonious madness, synergy with chance. unique artstyle, mindbending art, magical surrealism. best quality, high resolution",
+        "negative_prompt": "photography, illustration, drawing. realistic, possible. logical, sane. low quality, low resolution"
+    },
+    {
+        "name": "mre-dynamic-illustration",
+        "prompt": "insanely dynamic illustration of {prompt}. best quality, high resolution. crazy artstyle, careless brushstrokes, emotional and fun",
+        "negative_prompt": "photography, realistic. static, still, slow, boring. low quality, low resolution"
+    },
+    {
+        "name": "mre-undead-art",
+        "prompt": "long forgotten art created by undead artist illustrating {prompt}, tribute to the death and decay. miserable art of the damned. wretched and decaying world. best quality, high resolution",
+        "negative_prompt": "alive, playful, living. low quality, low resolution"
+    },
+    {
+        "name": "mre-elemental-art",
+        "prompt": "art illustrating insane amounts of raging elemental energy turning into {prompt}, avatar of elements. magical surrealism, wizardry. best quality, high resolution",
+        "negative_prompt": "photography, realistic, real. low quality, low resolution"
+    },
+    {
+        "name": "mre-space-art",
+        "prompt": "winner of inter-galactic art contest illustrating {prompt}, symbol of the interstellar singularity. best quality, high resolution. artstyle previously unseen in the whole galaxy",
+        "negative_prompt": "created by human race, low quality, low resolution"
+    },
+    {
+        "name": "mre-ancient-illustration",
+        "prompt": "sublime ancient illustration of {prompt}, predating human civilization. crude and simple, but also surprisingly beautiful artwork, made by genius primeval artist. best quality, high resolution",
+        "negative_prompt": "low quality, low resolution"
+    },
+    {
+        "name": "mre-brave-art",
+        "prompt": "brave, shocking, and brutally true art showing {prompt}. inspired by courage and unlimited creativity. truth found in chaos. best quality, high resolution",
+        "negative_prompt": "low quality, low resolution"
+    },
+    {
+        "name": "mre-heroic-fantasy",
+        "prompt": "heroic fantasy painting of {prompt}, in the dangerous fantasy world. airbrush over oil on canvas. best quality, high resolution",
+        "negative_prompt": "low quality, low resolution"
+    },
+    {
+        "name": "mre-dark-cyberpunk",
+        "prompt": "dark cyberpunk illustration of brutal {prompt} in a world without hope, ruled by ruthless criminal corporations. best quality, high resolution",
+        "negative_prompt": "low quality, low resolution"
+    },
+    {
+        "name": "mre-lyrical-geometry",
+        "prompt": "geometric and lyrical abstraction painting presenting {prompt}. oil on metal. best quality, high resolution",
+        "negative_prompt": "photography, realistic, drawing, rendered. low quality, low resolution"
+    },
+    {
+        "name": "mre-sumi-e-symbolic",
+        "prompt": "big long brushstrokes of deep black sumi-e turning into symbolic painting of {prompt}. master level raw art. best quality, high resolution",
+        "negative_prompt": "photography, rendered. low quality, low resolution"
+    },
+    {
+        "name": "mre-sumi-e-detailed",
+        "prompt": "highly detailed black sumi-e painting of {prompt}. in-depth study of perfection, created by a master. best quality, high resolution",
+        "negative_prompt": "low quality, low resolution"
+    },
+    {
+        "name": "mre-manga",
+        "prompt": "manga artwork presenting {prompt}. created by japanese manga artist. highly emotional. best quality, high resolution",
+        "negative_prompt": "low quality, low resolution"
+    },
+    {
+        "name": "mre-anime",
+        "prompt": "anime artwork illustrating {prompt}. created by japanese anime studio. highly emotional. best quality, high resolution",
+        "negative_prompt": "low quality, low resolution"
+    },
+    {
+        "name": "mre-comic",
+        "prompt": "breathtaking illustration from adult comic book presenting {prompt}. fabulous artwork. best quality, high resolution",
+        "negative_prompt": "deformed, ugly, low quality, low resolution"
     }
 ]
 
